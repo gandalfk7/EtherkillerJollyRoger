@@ -1,5 +1,6 @@
 # EtherkillerJollyRoger
 
+![alt tag](https://github.com/gandalfk7/EtherkillerJollyRoger/blob/master/EtherkillerJollyRoger_logo.png)
 
 ## License
 
