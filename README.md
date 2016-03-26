@@ -1,8 +1,8 @@
 # EtherkillerJollyRoger
 logo starring all the tools needed by a System Administrator: 
-* the hammer that fix things (temporarily)
-* the tape that fix things (temporarily)
-* the [etherkiller](http://www.fiftythree.org/etherkiller/) that fix devices (permanently)
+* the hammer that fixes things (temporarily)
+* the tape that fixes things (temporarily)
+* the [etherkiller](http://www.fiftythree.org/etherkiller/) that fixes devices (permanently)
 
 ![alt tag](https://github.com/gandalfk7/EtherkillerJollyRoger/blob/master/EtherkillerJollyRoger_logo.png)
 
